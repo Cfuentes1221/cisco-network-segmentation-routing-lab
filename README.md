@@ -8,7 +8,7 @@ This university networking lab uses Cisco Packet Tracer to model a multi-departm
 
 **Project scope:** 1 Cisco 2911 router, 4 switches, and approximately 25 simulated workstations, based on the project overview. Screenshots are captured from an academic demonstration video.
 
-> **Status:** Screenshots and documented tests are included below. The original `.pkt` simulation file has not yet been added to this repository. A native VLAN mismatch warning is visible in one screenshot and should be reviewed in the saved project; it is not documented as resolved.
+> **Status:** **Project Status:** The Cisco Packet Tracer simulation file (`Cisco-Network-Segmentation-Routing-Lab.pkt`) and supporting screenshots are available in this repository. Documented ICMP connectivity tests show successful communication between tested subnets with 0% packet loss. A native VLAN mismatch warning was observed during the original laboratory demonstration and remains noted for further review.
 
 ## Technologies and skills
 
