@@ -3,13 +3,6 @@
 **Academic Project | Cisco Packet Tracer | 2026**
 
 ## Overview
-## Network Topology
-
-The following topology illustrates the simulated network
-consisting of one Cisco 2911 router, four switches,
-and approximately 25 workstations.
-
-![Network Topology](screenshots/network-topology.png)
 This university networking lab uses Cisco Packet Tracer to model a multi-department network. The documented work covers configuring VLANs on switches, assigning IPv4 addresses and default gateways, inspecting router interfaces, and validating communication with ICMP ping tests.
 
 **Project scope:** 1 Cisco 2911 router, 4 switches, and approximately 25 simulated workstations, based on the project overview. Screenshots are captured from an academic demonstration video.
